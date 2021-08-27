@@ -10,12 +10,12 @@
 
 Con la extension de azure se tiene la opcion nuevo proyecto, seguir el paso a paso
 
-![](images\CRecion.png)
+![](/images/CRecion.png)
 
 
 Una vez se crea la funcion
 
-Crear el docker file e donde copia el contenido de la publiacion a la ruta `/home/site/wwwroot`
+Crear el docker file en donde copia el contenido de la publiacion a la ruta `/home/site/wwwroot`
 
 Comandos de ejecución
 ```powershell
